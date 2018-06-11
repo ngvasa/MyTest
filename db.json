@@ -1,160 +1,31 @@
 {
-	"cols": [
-		"id",
-		"name",
-		"city"
-	],
-	"data": [
-		[
-			1,
-			"Kane",
-			"Dallas"
-		],
-		[
-			2,
-			"Ferdinand",
-			"Sundrie"
-		],
-		[
-			3,
-			"Hiram",
-			"Burnaby"
-		],
-		[
-			4,
-			"Orson",
-			"Bhilwara"
-		],
-		[
-			5,
-			"Drake",
-			"Damme"
-		],
-		[
-			6,
-			"Brenden",
-			"Schagen"
-		],
-		[
-			7,
-			"Kelly",
-			"Quirihue"
-		],
-		[
-			8,
-			"Samuel",
-			"Vellore"
-		],
-		[
-			9,
-			"Cameron",
-			"Thuillies"
-		],
-		[
-			10,
-			"Macaulay",
-			"Sambhal"
-		],
-		[
-			11,
-			"Octavius",
-			"Romford"
-		],
-		[
-			12,
-			"Benedict",
-			"Spiere"
-		],
-		[
-			13,
-			"Carter",
-			"Futaleufú"
-		],
-		[
-			14,
-			"Rigel",
-			"Langenhagen"
-		],
-		[
-			15,
-			"Perry",
-			"Beausejour"
-		],
-		[
-			16,
-			"Jarrod",
-			"Ruette"
-		],
-		[
-			17,
-			"Scott",
-			"Peutie"
-		],
-		[
-			18,
-			"Dylan",
-			"Bari"
-		],
-		[
-			19,
-			"Oleg",
-			"Montgomery"
-		],
-		[
-			20,
-			"Dale",
-			"Cascavel"
-		],
-		[
-			21,
-			"Honorato",
-			"Memphis"
-		],
-		[
-			22,
-			"Garrison",
-			"Moustier-sur-Sambre"
-		],
-		[
-			23,
-			"Ivor",
-			"Motta Visconti"
-		],
-		[
-			24,
-			"Oren",
-			"Rivire-du-Loup"
-		],
-		[
-			25,
-			"Adam",
-			"Tourinnes-la-Grosse"
-		],
-		[
-			26,
-			"Clayton",
-			"Québec City"
-		],
-		[
-			27,
-			"Luke",
-			"Welshpool"
-		],
-		[
-			28,
-			"Dorian",
-			"Hallein"
-		],
-		[
-			29,
-			"Griffin",
-			"Chicoutimi"
-		],
-		[
-			30,
-			"Callum",
-			"Armo"
-		]
-	]
-
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "ngvasagam"
+  }
 }
